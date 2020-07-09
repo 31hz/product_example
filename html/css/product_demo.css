@@ -1,0 +1,44 @@
+.hidden {
+    display: none;
+}
+
+.category_header {
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+    padding: 50px;
+}
+
+.single_item {
+    text-align: center;
+    font-weight: bold;
+    width: 25%;
+    font-size: 8pt;
+}
+
+.product_row {
+    width: 100%;
+    padding: 20px;
+}
+
+.item_photo {
+   width: 50px;
+   padding:1px;
+}
+
+.page_header {
+    text-align: center;
+    font-size: 14pt;
+    font-weight: bold;
+    width: 100%;
+}
+
+.alert {
+    position:fixed;
+    top: 4px;
+    left: 4px;
+    width: 100%;
+    z-index:9999;
+    border-radius:0px;
+    text-align: center;
+}
